@@ -7,8 +7,8 @@ Este repositorio contiene el proyecto desarrollado para el Manejo de Archivos. E
 2. Navega hasta el directorio `ProductManager - 2da entrega`.
 3. Ejecuta los siguientes comandos desde un CMD para compilar el proyecto:
 
-    ProjectManager - 2da entrega>ProductManager.js
-    - Validar archivo JSON creado dentro de la ruta: "ProjectManager - 2da entrega\data\products.json"
+    ProjectManager - 2da entrega>`node ProductManager.js`
+    - Validar archivo JSON creado dentro de la ruta: `ProjectManager - 2da entrega\data\products.json`
 
 ## Estructura de directorios
 
